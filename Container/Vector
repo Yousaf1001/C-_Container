@@ -1,0 +1,17 @@
+Vector:
+1)Vector is sequence container that change it's size.
+2)Vector is dynamically grow it's size.
+3)Vector is same as array but change it's size automatically.
+5)it's is efficient for Searching a element,Removing and adding element from end.
+6)Vecotr is not efficient like other container queue,dequeue,list for Removing and adding element from any specific index.
+
+Constructor:
+1)Default constructor
+2)Fill constructor
+3)Range constructor
+4)Copy constructor
+Destructor:
+Destroy all element of vector and deallocate the storage.
+~vector().
+pointer,iterator is invalidate.
+never thorw an exception.
