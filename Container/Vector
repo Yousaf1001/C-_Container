@@ -15,3 +15,4 @@ Destroy all element of vector and deallocate the storage.
 ~vector().
 pointer,iterator is invalidate.
 never thorw an exception.
+ok!
